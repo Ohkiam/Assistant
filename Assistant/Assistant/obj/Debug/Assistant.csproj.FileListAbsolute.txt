@@ -1,0 +1,17 @@
+D:\vs_worksplace\Assistant\Assistant\bin\Debug\x86\sqlite3.dll
+D:\vs_worksplace\Assistant\Assistant\bin\Debug\x64\sqlite3.dll
+D:\vs_worksplace\Assistant\Assistant\bin\Debug\Assistant.exe.config
+D:\vs_worksplace\Assistant\Assistant\bin\Debug\Assistant.exe
+D:\vs_worksplace\Assistant\Assistant\bin\Debug\Assistant.pdb
+D:\vs_worksplace\Assistant\Assistant\bin\Debug\System.Data.SQLite.dll
+D:\vs_worksplace\Assistant\Assistant\bin\Debug\Tulpep.NotificationWindow.dll
+D:\vs_worksplace\Assistant\Assistant\bin\Debug\System.Data.SQLite.xml
+D:\vs_worksplace\Assistant\Assistant\bin\Debug\System.Data.SQLite.dll.config
+D:\vs_worksplace\Assistant\Assistant\obj\Debug\Assistant.csprojAssemblyReference.cache
+D:\vs_worksplace\Assistant\Assistant\obj\Debug\Assistant.Form1.resources
+D:\vs_worksplace\Assistant\Assistant\obj\Debug\Assistant.Properties.Resources.resources
+D:\vs_worksplace\Assistant\Assistant\obj\Debug\Assistant.csproj.GenerateResource.cache
+D:\vs_worksplace\Assistant\Assistant\obj\Debug\Assistant.csproj.CopyComplete
+D:\vs_worksplace\Assistant\Assistant\obj\Debug\Assistant.exe
+D:\vs_worksplace\Assistant\Assistant\obj\Debug\Assistant.pdb
+D:\vs_worksplace\Assistant\Assistant\obj\Debug\Assistant.csproj.CoreCompileInputs.cache
